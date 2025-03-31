@@ -1,0 +1,5 @@
+build/
+.vscode/
+sdkconfig.old
+sdkconfig
+components/partition_table/__pycache__/
